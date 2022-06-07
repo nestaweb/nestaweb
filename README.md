@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Nesta Loisy, I'm a student in Saint François d'Assise High School. I'm also a **Front End Developer**. I will apply to 42 at the end of this year ( 2021 )
+🎓 I am Nesta Loisy, I'm a student in Saint François d'Assise High School. I'm also a **Front End Developer**. I will apply to 42 at the end of this year ( 2022 )
 
 👨‍💻 I enjoy creating tnew websites. For the moment I created more than 15 websites. I really love to learn new technology, but I'm only learning about frontend technology. I learned **HTML 5**, **CSS 3**, **SASS**, **Javascript**, **SQL**, **python**, **jquery**, but I also learned some framework as **Vue JS**, **Tailwind** and **Bootstrap**.
 
