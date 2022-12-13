@@ -28,3 +28,9 @@
 
 
 <a style="display:flex;margin: 5% auto;" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/stats?cursusId=21&coalitionId=219" alt="nloisy's 42 stats" /></a>
+
+### Pipex <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/project/2858251" alt="nloisy's 42 pipex Score" /></a><br>
+### Born2Beroot <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/project/2854205" alt="nloisy's 42 Born2beroot Score" /></a><br>
+### Get_next_line <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/project/2847435" alt="nloisy's 42 get_next_line Score" /></a><br>
+### ft_printf <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/project/2825181" alt="nloisy's 42 ft_printf Score" /></a><br>
+### Libft <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/project/2804564" alt="nloisy's 42 Libft Score" /></a><br>
