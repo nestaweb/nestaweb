@@ -25,3 +25,6 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/xtsen)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nesta.web.dev@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nesta.web/)
+
+
+<a style="display:flex;margin: 5% auto;" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clblrmys300210flbe69fp9b4/stats?cursusId=21&coalitionId=219" alt="nloisy's 42 stats" /></a>
