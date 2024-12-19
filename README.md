@@ -15,7 +15,7 @@
   </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,npm,css,sass,bootstrap,tailwind,php,html,js,ts,react,vue,nextjs,vite,docker,aws,express,nodejs,prisma,mongodb,mysql,sqlite,figma,github,gitlab,postman,flutter,supabase,tailwindcss,dart&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,php,css,sass,bootstrap,tailwindcss,js,ts,vue,react,nextjs,vite,docker,aws,express,nodejs,prisma,mongodb,mysql,sqlite,supabase,flutter,dart,figma,github,gitlab,git,postman,npm&perline=14" />
   </a>
 </p>
 
