@@ -11,11 +11,11 @@
 🎸 During my free time, I enjoy immersing myself in reading, challenging my limits with bouldering, and socializing with friends during enriching outings.
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technos I Know👨🏻‍💻</h2></summary>
   </ul>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,npm,css,sass,bootstrap,tailwind,materialui,php,html,js,ts,react,vue,nextjs,vite,docker,firebase,aws,express,nodejs,prisma,mongodb,mysql,sqlite,figma,linux,md,github,gitlab,postman,vscode,webstorm,phpstorm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,npm,css,sass,bootstrap,tailwind,php,html,js,ts,react,vue,nextjs,vite,docker,aws,express,nodejs,prisma,mongodb,mysql,sqlite,figma,github,gitlab,postman,flutter,supabase&perline=14" />
   </a>
 </p>
 
