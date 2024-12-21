@@ -19,6 +19,9 @@
   </a>
 </p>
 
+## 42
+[![nloisy's 42 stats](https://badge.mediaplus.ma/darkblue/nloisy?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nestaweb)
